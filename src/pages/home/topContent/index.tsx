@@ -61,7 +61,7 @@ const TopContent: React.FC = () => {
         <button
           className="transition duration-500 ease-in-out hover:bg-yellow justify-center inline-flex text-black bg-green_1 border-0 py-2 px-6 focus:outline-none rounded text-lg cursor-pointer"
           type="button"
-          onClick={() => setModal(true)}
+          onClick={() => alert('Funcionalidade em construção!')}
         >
           Get In Touch
         </button>
