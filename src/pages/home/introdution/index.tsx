@@ -10,7 +10,7 @@ const Introdution: React.FC = () => {
       <div className="flex lg:flex-row flex-col mb-20 text-lg items-center">
         <div className="lg:w-2/5 w-full">
           <img
-            className="w-80 h-80 mb-10 rounded-md m-auto"
+            className="w-72 h-72 mb-10 rounded-md m-auto"
             src="assets/images/me-focus.png"
             alt="Foto de Dionei Bianchati"
           />
